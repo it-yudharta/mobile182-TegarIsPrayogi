@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Indeks Masa Tubuh</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="indeks_masa_tubuh">Indeks Masa Tubuh</string>
+    <string name="ini_layout_tentang">Ini Layout Tentang</string>
+    <string name="bagikan_ke_whatsapp">Bagikan Ke Whatsapp</string>
+</resources>
